@@ -1,0 +1,102 @@
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/2","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to delete","path":"DELETE /lender/deleteOrder/1","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/1","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/1","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to update item","path":"PUT /lender/editItems/1","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchUserManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchUserManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchUserManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/getItemsById/100","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/getItemsById/100","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/getItemsById/100","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/getItemsById/100","service":"rentalManagement"}
+{"level":"error","message":"Data not found productModel is not defined","path":"GET /lender/getItemsById/100","service":"rentalManagement","stack":"ReferenceError: productModel is not defined\n    at LenderController.getItemsById (C:\\Users\\Gayat\\Documents\\LenderService(Rental)\\src\\controller\\lenderController.js:552:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\LenderService(Rental)\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Gayat\\Documents\\LenderService(Rental)\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\Gayat\\Documents\\LenderService(Rental)\\src\\middleware\\auth.js:87:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Product not found","path":"PUT /lender/editItems/422","service":"rentalManagement"}
+{"level":"error","message":"product not found","path":"DELETE /lender/deleteProduct/45","service":"rentalManagement"}
+{"level":"error","message":"product not found","path":"DELETE /lender/deleteProduct/44","service":"rentalManagement"}
+{"level":"error","message":"product not found","path":"DELETE /lender/deleteProduct/43","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to delete","path":"DELETE /lender/deleteProduct/46","service":"rentalManagement"}
+{"error":{},"level":"error","message":"Unable to delete","path":"DELETE /lender/deleteProduct/45","service":"rentalManagement"}
+{"level":"error","message":"product not found","path":"DELETE /lender/deleteProduct/45","service":"rentalManagement"}
+{"level":"error","message":"product not found","path":"DELETE /lender/deleteProduct/44","service":"rentalManagement"}
+{"level":"error","message":"product not found","path":"DELETE /lender/deleteProduct/43","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/45","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/44","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/44","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/42","service":"rentalManagement"}
+{"level":"error","message":"order not found","path":"DELETE /lender/deleteOrder/22","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/masterData","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"PUT /lender/editItems/422","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/90","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/90","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/90","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/getOrdersById/333","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/getOrdersById/2222","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/42","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/42","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/41","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/41","service":"rentalManagement"}
+{"level":"error","message":"order not found","path":"DELETE /lender/deleteOrder/44","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement/","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"GET /lender/getItemsById/99","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/getOrdersById/2222","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"PUT /lender/editItems/2222","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"PUT /lender/editItems/2222","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"PUT /lender/editItems/2222","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/41","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/masterData","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/masterData","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/masterData","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/40","service":"rentalManagement"}
+{"level":"error","message":"Product not found","path":"DELETE /lender/deleteProduct/39","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchItemManagement","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"GET /lender/searchOrderManagement","service":"rentalManagement"}
